@@ -359,6 +359,8 @@ export default class Slide6 extends React.Component {
           color: "white",
           outline: "none",
           fontWeight: "bold",
+
+
           fontSize: "0.5em",
           position: "fixed; left: 900px; top: -320px"
           // visibility: "hidden"
